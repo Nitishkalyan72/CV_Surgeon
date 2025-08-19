@@ -1,0 +1,15 @@
+# Virtual environment
+.venv/
+
+# Environment variable file (contains API keys)
+.env
+
+# Python version file
+.python-version
+
+# uv project lock file
+uv.lock
+
+# Python cache
+__pycache__/
+*.pyc
